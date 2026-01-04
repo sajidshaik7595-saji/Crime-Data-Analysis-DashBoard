@@ -58,6 +58,13 @@ Predictive crime analysis using ML
 
 Advanced geospatial mapping
 
+
+
+
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/995ab178-4f92-4d24-8892-5798acb5aaae" />
+
+
+
 Crime severity scoring
 
 Top Crime Hotspots – Locations with highest crime rates
